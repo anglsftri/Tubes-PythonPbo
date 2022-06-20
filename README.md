@@ -1,6 +1,7 @@
 # Tubes-PythonPbo
 ### INITIATION ###
 ## Story ##
+
 '''
 1.1 Plot		:permainan pada game ini hanya sebatas tembak-tembakan dan melindungi anak ayam dalam bentengnya pada pemain utama (player) adalah seekor ayam. ayam harus melindungi bentengnya dari serangan tikus-tikus. Dan ayam menggunakan panah untuk menembak tikus-tikus tersebut.
 
